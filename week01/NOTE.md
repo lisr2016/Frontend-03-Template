@@ -44,4 +44,9 @@ Javascript中， /可能是除号，也可能是正则表达式开头，处理�
  声明式  lambada
     递归
 
+运行时相关概念
+
+Statement
+Grammar 简单语句 组合语句 声明
+RunTime Completion Record, Lexical Environment
 
