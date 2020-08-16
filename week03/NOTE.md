@@ -1,6 +1,45 @@
 学习笔记
 浏览器工作原理第二课
 
+
+HTML解析
+
+parse模块的文件拆分
+
+用FSM实现HTML的分析
+
+解析标签
+
+创建元素
+
+处理属性
+
+用token构建DOM树
+
+将文本节点加到DOM树
+
+
+CSS计算
+
+收集CSS规则
+
+添加调用
+
+获取父元素序列
+
+选择器与元素的匹配
+
+计算选择器与元素匹配
+
+生成computed属性
+
+specificity的计算逻辑
+
+
+课程总结
+
+
+
 server.js
 
 const http = require('http');
@@ -67,10 +106,3 @@ class ResponseParser {
     }
 }
 
-
-
-HTML解析
-
-
-
-CSS计算
