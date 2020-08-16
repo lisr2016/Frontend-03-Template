@@ -24,3 +24,24 @@ parse，把HTML变成DOM树， CSS computing。  得到一棵带CSS属性的DOM�
 JS中的有限状态机 (Mealy)
 
 使用状态机处理字符串
+
+HTTP请求
+
+ISO-OIS 七层网络模型
+
+HTTP -- require('http')
+TCP  -- require('net')
+Internet
+4G/5G/Wi-Fi
+
+TCP与IP的一些基础知识
+
+流
+包
+端口
+IP地址
+require('net');
+libnet/libpcap
+
+
+
